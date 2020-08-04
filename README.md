@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-Eu sou a Juliana, uma jovem apaixonada por Ciência, Tecnologia e Inovação! :woman: :computer: :purple_heart:
+Eu sou a Juliana! Uma jovem apaixonada por Ciência, Tecnologia e Inovação! :woman: :computer: :purple_heart:
 
 Faço Bacharelado em Sistemas de Informação pela Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
 
