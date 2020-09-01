@@ -4,7 +4,7 @@ Eu sou a Juliana! Uma jovem apaixonada por Ciência, Tecnologia e Inovação! :w
 
 Faço Bacharelado em Sistemas de Informação pela Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
 
-Também faço Iniciação Científica na área de Machine Learning, participo de alguns projetos de empoderamento feminino como o ElaSTEMpoder e o Programa Venus, e sou organizadora da SemComp, a Semana de Computação do Instituto de Ciências Matemáticas e de Computação da USP.
+Trabaho no setor de Tracking and Tags da Raccoon Marketing Digital e também participo de diversos projetos relacionados a tecnologia e também ao empoderamento feminino.
 
 Sempre compartilho minhas experiências nas redes sociais, vamos nos conectar!
 <br/>Linkedin: https://www.linkedin.com/in/julianadegenario/
