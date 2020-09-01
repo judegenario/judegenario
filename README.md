@@ -4,7 +4,7 @@ Eu sou a Juliana! Uma jovem apaixonada por Ciência, Tecnologia e Inovação! :w
 
 Faço Bacharelado em Sistemas de Informação pela Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
 
-Trabalho no setor de Tracking and Tags da Raccoon Marketing Digital e também participo de diversos projetos relacionados a tecnologia e também ao empoderamento feminino.
+Trabalho no setor de Tracking and Tags na Raccoon Marketing Digital e também participo de diversos projetos relacionados a tecnologia e também ao empoderamento feminino.
 
 Sempre compartilho minhas experiências nas redes sociais, vamos nos conectar!
 <br/>Linkedin: https://www.linkedin.com/in/julianadegenario/
