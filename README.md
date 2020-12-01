@@ -2,7 +2,7 @@
 
 Eu sou a Juliana! Uma jovem apaixonada por Ciência, Tecnologia e Inovação! :woman: :computer: :purple_heart:
 
-Faço Bacharelado em Sistemas de Informação pela Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
+Faço Bacharelado em Sistemas de Informação na Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
 
 Trabalho no setor de Tracking and Tags na Raccoon Marketing Digital e também participo de diversos projetos relacionados à tecnologia e ao empoderamento feminino.
 
