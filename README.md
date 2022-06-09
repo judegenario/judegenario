@@ -4,7 +4,7 @@ Eu sou a Juliana! Uma jovem apaixonada por Ciência, Tecnologia e Inovação! :w
 
 Faço Bacharelado em Sistemas de Informação na Universidade de São Paulo e sou Técnica em Eletrônica formada pelo Instituto Federal Fluminense. :mortar_board:
 
-Trabalho no setor de Automated Marketing na Amazon e também participo de diversos projetos relacionados à tecnologia e ao empoderamento feminino.
+Trabalho como Program Management Intern na Amazon e também participo de diversos projetos relacionados à tecnologia e ao empoderamento feminino.
 
 Sempre compartilho minhas experiências nas redes sociais, vamos nos conectar!
 <br/>Linkedin: https://www.linkedin.com/in/julianadegenario/
